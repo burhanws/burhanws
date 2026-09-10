@@ -1,8 +1,13 @@
-### Hi, I'm Burhan 👋
+### Burhan Waheed Shah
 
-Python developer building trading bots and developer tools.
+Bioinformatics & Genomics student at Monash University, building bioinformatics pipelines and Python-based data analysis tools.
 
-- 🤖 [`burhan-binance-bot`](https://github.com/burhanws/burhan-binance-bot) — a Binance trading bot with market/limit order execution
-- 📊 [`ghstats`](https://github.com/burhanws/ghstats) — a CLI that summarizes any GitHub user's public activity
+**Focus areas**
+- Bioinformatics pipelines and tooling
+- Python for data analysis and automation
 
-📫 Reach me at burhanwaheedshahh07@gmail.com
+**Projects**
+- [`ghstats`](https://github.com/burhanws/ghstats) — CLI that summarizes a GitHub user's public repository activity
+- [`burhan-binance-bot`](https://github.com/burhanws/burhan-binance-bot) — Binance trading bot with market and limit order execution
+
+**Contact:** burhanwaheedshahh07@gmail.com
