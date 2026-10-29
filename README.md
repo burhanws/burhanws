@@ -7,7 +7,6 @@ Bioinformatics & Genomics student at Monash University, building bioinformatics 
 - Python for data analysis and automation
 
 **Projects**
-- [`ghstats`](https://github.com/burhanws/ghstats) — CLI that summarizes a GitHub user's public repository activity
 - [`burhan-binance-bot`](https://github.com/burhanws/burhan-binance-bot) — Binance trading bot with market and limit order execution
 
 **Contact:** burhanwaheedshahh07@gmail.com
